@@ -19,7 +19,7 @@
 	let resizing = false;
 	let originalWidth = 0;
 	let originalMouseX = 0;
-	
+
 </script>
 
 <div

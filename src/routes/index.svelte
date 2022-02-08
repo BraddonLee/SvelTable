@@ -25,20 +25,7 @@
 
     let data = [];
 
-	const colSetting = {
-		width: 200
-	};
-
-	const rowSetting = {
-		width: 100
-	};
-
-for (let i=0; i < userDefinedNum; i+= 1){
-	let newbie = newPerson(i);
-	data.push(newbie)
-}
-
 </script>
 
 <h1>Welcome to SvelTable</h1>
-<SvelTable dataSet={data} {colSetting} {rowSetting} />
+<SvelTable dataSet={data}/>
