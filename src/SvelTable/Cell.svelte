@@ -12,5 +12,6 @@
 <style>
 	.SvelTableCell {
 		border: 1px solid lightgray;
+		font-family: 'IBM Plex Sans', sans-serif;
 	}
 </style>

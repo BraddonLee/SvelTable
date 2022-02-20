@@ -56,6 +56,7 @@
 
 <style>
 	.SvelTableHeading {
+		font-family: 'IBM Plex Sans', sans-serif;
 		display: flex;
 		flex-direction: row;
 		border: 1px solid black;
